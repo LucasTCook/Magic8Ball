@@ -71,7 +71,7 @@ include "includes/includes.php";
 //                , "lack", "power", "burst", "cannot", "wise", "valuable", "income", "caught", "alive", "somehow", "grow",
 //        "fog", "complex", "spell", "step", "away", "completely"];
 
-const stuff = ['Arkadiy is a bitch'];
+const stuff = ['PROMPT HERE'];
 //    console.log(stuff);
 
     var isRunning = false;
